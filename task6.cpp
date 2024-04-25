@@ -19,7 +19,7 @@ public:
 };
 void Bookstore::salesreport()
 {
-    cout<<"Process sales has not been emplement";
+    cout<<"Process sales has not been implemented";
 }
 void Bookstore::displayBook() {
     cout <<"ISBN: "<<isbn;
